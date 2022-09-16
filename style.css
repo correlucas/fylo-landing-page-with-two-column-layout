@@ -467,11 +467,22 @@ footer a {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .nav {
     display: flex;
     flex-direction: column;
     gap: 20px;
     align-items: center;
+  }
+
+  .input-mail {
+    border-radius: 4px;
+    text-align: center;
+    padding: 6px 100px;
+    max-width: 250px;
+  }
+
+  .logo {
+    max-width: 120px;
   }
 }
