@@ -410,7 +410,7 @@ footer a {
     display: flex;
     flex-direction: column;
     max-width: 100%;
-    align-items: center;
+    align-items: flex-start;
   }
 
   .grid-2x-form {
@@ -447,7 +447,11 @@ footer a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
+  }
+
+  p .body-text.gray {
+    text-align: left;
   }
 
   .flex-list {
@@ -467,12 +471,19 @@ footer a {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
   .nav {
     display: flex;
     flex-direction: column;
     gap: 20px;
     align-items: center;
+  }
+
+  .form-1,
+  .form-2 {
+    display: flex;
+    text-align: center;
+    align-items: flex-start;
   }
 
   .input-mail {
