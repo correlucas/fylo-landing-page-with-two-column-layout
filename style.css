@@ -239,9 +239,8 @@ body {
   padding-top: 60px;
 }
 
-form {
-  display: flex;
-
+.form-1 {
+  gap: 20px;
 }
 
 .btn {
@@ -435,6 +434,8 @@ footer a {
   .form-2 {
     gap: 0px;
   }
+
+
 
   .form-1,
   .form-2 {
