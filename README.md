@@ -17,12 +17,12 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 ### Screenshot
 
-![](./screenshot/screenshot-desktop-2.png)
+![](./screenshot/screenshot-desktop.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/huddle-lp-w-alternating-feature-blocks-vanilla-css-custom-logo-ZKM8wX_Jzg)
-- Live Site URL: [Live Site at Vercel](https://huddle-landing-page-with-alternating-feature-blocks-eta-lyart.vercel.app/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-qh7A0Tl8IP)
+- Live Site URL: [Live Site at Vercel](https://fylo-landing-page-with-two-column-layout-six.vercel.app/)
 ## My process
 
 ### Built with
